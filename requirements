@@ -1,6 +1,6 @@
 streamlit
 requests
 pandas
+fpdf
 beautifulsoup4
 matplotlib
-fpdf
